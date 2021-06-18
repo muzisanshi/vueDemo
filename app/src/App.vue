@@ -9,6 +9,7 @@
 		<data-binding/>
 		<compute-attr/>
 		<class-bind/>
+		<v-on-decor/>
   </div>
 </template>
 
@@ -22,6 +23,7 @@ import VOnDirective from './components/VOnDirective';
 import DataBinding from './components/DataBinding';
 import ComputeAttr from './components/ComputeAttr';
 import ClassBind from './components/ClassBind';
+import VOnDecor from './components/VOnDecor';
 export default {
   name: 'app',
   components: {
@@ -32,7 +34,8 @@ export default {
 	VOnDirective,
 	DataBinding,
 	ComputeAttr,
-	ClassBind
+	ClassBind,
+	VOnDecor,
   }
 }
 </script>
