@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<label class="block">6.计算属性</label>
+		<label class="block">7.计算属性</label>
 		<div>
 			<p>{{comMsg}}</p>
 		</div>

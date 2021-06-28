@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<label class="block">6.自定义v-model</label>
+		<label class="block">11.自定义v-model</label>
 		<div>
 			<p>{{'组件状态：' + state}}</p>
 		</div>

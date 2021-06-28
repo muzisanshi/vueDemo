@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<label class="block">7.样式绑定</label>
+		<label class="block">8.样式绑定</label>
 		<div>
 			<p :class="{red:isRed}">{{comMsg}}</p>
 		</div>

@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<label class="block">5.v-on修饰符</label>
+		<label class="block">9.v-on修饰符</label>
 		<div></div>
 		<div @click="onClick2" class="parent">
 			<button @click.stop="onClick">阻止事件继续传播</button>

@@ -31,6 +31,7 @@
 		</slot-demo>
 		
 		<dynamic-comp/>
+		<async-component/>
   </div>
 </template>
 
@@ -50,6 +51,7 @@ import SelfDefVModel from './components/SelfDefVModel'
 import SyncDecor from './components/SyncDecor'
 import SlotDemo from './components/SlotDemo'
 import DynamicComp from './components/DynamicComp'
+import AsyncComponent from './components/AsyncComponent'
 
 export default {
   name: 'app',
@@ -74,6 +76,7 @@ export default {
 	SyncDecor,
 	SlotDemo,
 	DynamicComp,
+	AsyncComponent,
   },
   methods:{
 	  onEvent(){

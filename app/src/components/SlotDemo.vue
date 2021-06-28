@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<label class="block">8.Slot插槽</label>
+		<label class="block">13.Slot插槽</label>
 		<div>
 			<div>&nbsp;&nbsp;(1).默认插槽: <slot></slot></div>
 			<div>&nbsp;&nbsp;(2).具名插槽: <slot name="myname"></slot></div>

@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<label class="block">7.'.sync'修饰符</label>
+		<label class="block">12.'.sync'修饰符</label>
 		<div>
 			<p>{{syncData}}</p>
 		</div>
